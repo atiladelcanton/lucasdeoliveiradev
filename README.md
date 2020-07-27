@@ -11,8 +11,7 @@ Eu sou desenvolvedor web, adoro HTML e CSS, estou estudando muito Javascript e t
 - ⚡ CItação: Se você não tem o DOM tenha força de vontade
 - 📫 Onde saber mais sobre min:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/lucasdeoliveiradev) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/lucas_html) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lucas-oliveira-952192142/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](contato@lucasdeoliveira.dev.br)
-|---|---|---|---|---|---|
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/lucasdeoliveiradev)  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/lucas_html) [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/lucas-oliveira-952192142/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](contato@lucasdeoliveira.dev.br)
 
 ----
    
